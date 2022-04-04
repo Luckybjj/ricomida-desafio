@@ -1,0 +1,45 @@
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+}
+
+h2 p{
+    font-family: 'Cabin', sans-serif;
+}
+
+.carousel-indicators li {
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    /* redondea en el carrusel */
+}
+
+.carousel-indicators {
+    top: 105%;
+}
+
+.section_ingre_prepa .seccion_ingredientes{
+    font-family: 'Cabin', sans-serif;
+}
+
+.seccion_ingre_prepa .seccion__preparacion{
+    font-family: 'Cabin', sans-serif;
+}
+
+footer{
+    font-family: 'Lobster', cursive;
+}
+
+section h4 span{
+    font-family: 'Lobster', cursive;
+}
+
+.seccion_newslatter{
+    padding-top: 3%;
+    padding-bottom: 8%;
+}
+
+@media (min-width: 768px) {
+    .linea_superior{
+        display: none;
+    }
+}
